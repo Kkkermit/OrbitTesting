@@ -12,7 +12,7 @@ const client = new Client({ intents: [
 	GatewayIntentBits.GuildPresences, 
 	GatewayIntentBits.GuildIntegrations, 
 	GatewayIntentBits.GuildWebhooks, 
-    GatewayIntentBits.GuildMessageReactions,
+        GatewayIntentBits.GuildMessageReactions,
 	GatewayIntentBits.MessageContent, 
 	GatewayIntentBits.GuildEmojisAndStickers, 
 	GatewayIntentBits.DirectMessages, 
